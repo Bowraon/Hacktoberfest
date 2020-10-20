@@ -1,2 +1,6 @@
 .\adb devices
 .\adb shell pm grant com.android.killios.WRITE_SECURE_SETTINGS
+hi there
+this id for the hecktoberfest
+while True:
+display.show(Image.HEART)
